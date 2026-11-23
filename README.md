@@ -1,9 +1,9 @@
-<!-- Banner animado no topo -->
+<!-- Banner animado Roxo/Neon -->
 <div align="center">
   <img width="100%" src="https://vercel.app" />
 </div>
 
-<!-- Texto digitando dinamicamente -->
+<!-- Texto digitando dinamicamente em Neon -->
 <div align="center">
   <a href="https://git.io">
     <img src="https://demolab.com" alt="Typing SVG" />
@@ -14,19 +14,23 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 🔭 **Atualmente trabalhando em:** Projetos pessoais e evoluindo meu portfólio.
-- 🌱 **Estudando:** Desenvolvimento Web, Lógica de Programação e Boas Práticas.
-- 👯 **Buscando colaborar em:** Projetos Open Source e desafios de código.
-- 💬 **Me pergunte sobre:** Tecnologia, programação e games.
-- ⚡ **Curiosidade:** Gosto de resolver problemas complexos da forma mais simples possível.
+- 🔭 **Foco atual:** Desenvolvimento Back-end, criação de Jogos e aplicações Mobile.
+- 🌱 **Estudando:** Arquitetura de sistemas, motores de jogos, APIs e desenvolvimento multiplataforma.
+- 👯 **Buscando colaborar em:** Projetos de jogos indie, sistemas back-end e apps inovadores.
+- 💬 **Me pergunte sobre:** Python, Java, C#, lógica de jogos e desenvolvimento mobile.
+- ⚡ **Curiosidade:** Transformando ideias criativas em código funcional, do servidor até a tela do celular.
 
 <br/>
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Stack & Ferramentas
 
 <div align="left">
+  <!-- Linguagens Principais -->
   <img src="https://shields.io" />
   <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  
+  <!-- Ferramentas & Ecossistema -->
   <img src="https://shields.io" />
   <img src="https://shields.io" />
   <img src="https://shields.io" />
@@ -51,20 +55,16 @@
 
 ### 📫 Onde me encontrar
 
-<div align="left">
-  <a href="https://linkedin.com" target="_blank">
+  </a>
+  <a href="https://instagram.com/jl_guilherme_?evlk=MTU3b3B0OHY0OGZ4Nw%3D%3D&utm_source=qr" target="_blank">
     <img src="https://shields.io" />
   </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://shields.io" />
-  </a>
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="alunocebrac2024jl@gmail.com">
     <img src="https://shields.io" />
   </a>
 </div>
 
-<!-- Rodapé ondulado -->
+<!-- Rodapé ondulado Roxo/Neon -->
 <div align="center">
   <img width="100%" src="https://vercel.app" />
 </div>
-
