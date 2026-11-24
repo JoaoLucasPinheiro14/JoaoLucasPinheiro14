@@ -20,15 +20,14 @@
 [![My
 Skills](https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark)](https://skillicons.dev)
 
-:::🚀 Meus projetos
+::🚀 Meus projetos
 Em breve, vou adicionar aqui meus projetos e experiências de
 programação.
 
-:🌐 Onde me encontrar:
+🌐 Onde me encontrar :
 
 [![Instagram](https://img.shields.io/badge/Instagram-@jl__guilherme__-C026D3?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jl_guilherme_)
 [![Gmail](https://img.shields.io/badge/Email-alunocebrac2024jl%40gmail.com-9333EA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alunocebrac2024jl@gmail.com)
 ### ✨ Sempre aprendendo. Sempre evoluindo.
 
 *Obrigado por visitar meu perfil! 💜*
-:::
