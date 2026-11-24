@@ -3,8 +3,6 @@
 
 ### Estudante de Lógica de Programação e Inteligência Artificial
 
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BF5FFF&center=true&vCenter=true&width=600&lines=Explorando+o+mundo+da+programa%C3%A7%C3%A3o;Aprendendo+evoluindo+um+projeto+de+cada+vez;Estudando+L%C3%B3gica+e+Intelig%C3%AAncia+Artificial" alt="Texto animado" />`{=html}
-
 [![GitHub](https://img.shields.io/badge/GitHub-JoaoLucasPinheiro14-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoLucasPinheiro14)
 [![Instagram](https://img.shields.io/badge/Instagram-jl__guilherme__-C026D3?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jl_guilherme_)
 [![Gmail](https://img.shields.io/badge/Gmail-Contato-9333EA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alunocebrac2024jl@gmail.com)
@@ -24,12 +22,6 @@ Skills](https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark)](https://sk
 :::🚀 Meus projetos
 Em breve, vou adicionar aqui meus projetos e experiências de
 programação.
-<!--
-Quando tiver seus repositórios, substitua os exemplos abaixo por links reais:
-
-- **[Nome do projeto](LINK_DO_REPOSITORIO)** — breve descrição do projeto.
-- **[Nome do projeto](LINK_DO_REPOSITORIO)** — tecnologias utilizadas e o que você aprendeu.
--->
 📊 Estatísticas do GitHub
 ::: {align="center"}
 ![Estatísticas do
