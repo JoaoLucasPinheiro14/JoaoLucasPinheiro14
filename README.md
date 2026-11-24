@@ -16,7 +16,6 @@
 - 📚 Estou sempre buscando aprender algo novo e evoluir como
   desenvolvedor.
 💻 Linguagens e tecnologias
-::: {align="center"}
 [![My
 Skills](https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark)](https://skillicons.dev)
 
