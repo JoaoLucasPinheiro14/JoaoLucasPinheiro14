@@ -22,13 +22,6 @@ Skills](https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark)](https://sk
 :::🚀 Meus projetos
 Em breve, vou adicionar aqui meus projetos e experiências de
 programação.
-📊 Estatísticas do GitHub
-::: {align="center"}
-![Estatísticas do
-GitHub](https://github-readme-stats.vercel.app/api?username=JoaoLucasPinheiro14&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=BF5FFF&icon_color=FF4FD8&text_color=F4E9FF)
-
-![Linguagens mais
-utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLucasPinheiro14&layout=compact&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=BF5FFF&text_color=F4E9FF)
 :::🌐 Onde me encontrar
 [![Instagram](https://img.shields.io/badge/Instagram-@jl__guilherme__-C026D3?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jl_guilherme_)
 [![Gmail](https://img.shields.io/badge/Email-alunocebrac2024jl%40gmail.com-9333EA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alunocebrac2024jl@gmail.com)
