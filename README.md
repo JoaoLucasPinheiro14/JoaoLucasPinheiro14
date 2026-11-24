@@ -6,7 +6,7 @@
 <!-- Texto digitando dinamicamente em Neon -->
 <div align="center">
   <a href="https://git.io">
-    <img alt="Hey mmy name is Luca" />
+    <img src="lodevap487@bcough.com" alt="Hey mmy name is Luca" />
   </a>
 </div>
 
