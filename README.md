@@ -1,6 +1,6 @@
 <!-- Banner animado Roxo/Neon -->
 <div align="center">
-  <img width="100%" src="https://vercel.app" />
+  <img width="100%" src="https://i.pinimg.com/1200x/ff/33/51/ff33516164a728923a2c9f4852acd618.jpg" />
 </div>
 
 <!-- Texto digitando dinamicamente em Neon -->
