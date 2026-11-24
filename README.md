@@ -6,7 +6,7 @@
 <!-- Texto digitando dinamicamente em Neon -->
 <div align="center">
   <a href="https://git.io">
-    <img src="https://demolab.com" alt="Typing SVG" />
+    <img src="https://i.pinimg.com/736x/17/3a/cf/173acfb0630a10799fc615a7a5521573.jpg" alt="Hey mmy name is Luca" />
   </a>
 </div>
 
