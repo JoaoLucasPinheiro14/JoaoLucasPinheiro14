@@ -1,4 +1,4 @@
-# Olá! Eu sou Lucas 👋
+# Hello! my name is Lucas 👋
 
 ### Estudante de Lógica de Programação e Inteligência Artificial
 
