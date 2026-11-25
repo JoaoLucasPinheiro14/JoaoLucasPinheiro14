@@ -14,6 +14,7 @@
   transform ideas into solutions.
 - 📚I am always looking to learn something new and evolve as a developer.
 💻 Linguagens e tecnologias
+
 [![My
 Skills](https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark)](https://skillicons.dev) 
 
