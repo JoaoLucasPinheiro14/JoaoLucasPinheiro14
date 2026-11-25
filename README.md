@@ -7,21 +7,18 @@
 [![Gmail](https://img.shields.io/badge/Gmail-Contato-9333EA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alunocebrac2024jl@gmail.com)
 
 💜 Sobre mim
-- 🎓 Meu nome é Lucas e estou estudando programação.
-- 🧠 Atualmente, foco em Lógica de Programação e Inteligência
-  Artificial.
-- 💻 Estou aprendendo e praticando Python, Java, C e C++.
-- 🚀 Quero desenvolver minhas habilidades e criar projetos que
-  transformem ideias em soluções.
-- 📚 Estou sempre buscando aprender algo novo e evoluir como
-  desenvolvedor.
+- 🎓 My name is Lucas and I am studying programming.
+- 🧠 Currently, I focus on Programming Logic and Artificial Intelligence.
+- 💻 I am learning and practicing Python, Java, C, and C++.
+- 🚀 I want to develop my skills and create projects that
+  transform ideas into solutions.
+- 📚I am always looking to learn something new and evolve as a developer.
 💻 Linguagens e tecnologias
 [![My
 Skills](https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark)](https://skillicons.dev)
 
 ::🚀 Meus projetos
-Em breve, vou adicionar aqui meus projetos e experiências de
-programação.
+My projects are below; if you need any information, you know how to find me.
 
 🌐 Onde me encontrar :
 
@@ -29,4 +26,4 @@ programação.
 [![Gmail](https://img.shields.io/badge/Email-alunocebrac2024jl%40gmail.com-9333EA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alunocebrac2024jl@gmail.com)
 ### ✨ Sempre aprendendo. Sempre evoluindo.
 
-*Obrigado por visitar meu perfil! 💜*
+__*If you’ve seen this, I’m sorry—it’s high-quality content.*__
