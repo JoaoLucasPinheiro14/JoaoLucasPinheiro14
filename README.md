@@ -1,4 +1,3 @@
-::: {align="center"}
 # Olá! Eu sou Lucas 👋
 
 ### Estudante de Lógica de Programação e Inteligência Artificial
