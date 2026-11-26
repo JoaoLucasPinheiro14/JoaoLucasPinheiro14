@@ -10,13 +10,13 @@
 [![Gmail](https://img.shields.io/badge/Gmail-Contato-9333EA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alunocebrac2024jl@gmail.com)
 
  :: About me
-- 🎓 My name is Lucas and I am studying programming.
-- 🧠 Currently, I focus on Programming Logic and Artificial Intelligence.
-- 💻 I am learning and practicing Python, Java, C, and C++.
-- 🚀 I want to develop my skills and create projects that
+-  My name is Lucas and I am studying programming.
+-  Currently, I focus on Programming Logic and Artificial Intelligence.
+-  I am learning and practicing Python, Java, C, and C++.
+-  I want to develop my skills and create projects that
   transform ideas into solutions.
-- 📚I am always looking to learn something new and evolve as a developer.
-💻 Languages ​​and technologies
+- I am always looking to learn something new and evolve as a developer.
+   Languages ​​and technologies
 
 [![My
 Skills](https://skillicons.dev/icons?i=python,java,c,cpp,portugol&theme=dark)](https://skillicons.dev) 
