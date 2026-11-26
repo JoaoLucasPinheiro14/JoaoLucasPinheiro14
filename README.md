@@ -33,3 +33,19 @@ My projects are below; if you need any information, you know how to find me.
 __*If you’ve seen this, I’m sorry—it’s high-quality content.*__
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true) 
+
+class JoãoLucas:
+
+    name = "João Lucas"
+    occupation = "Programming Student"
+    interests = ["Programming", "AI", "Technology"]
+    languages = ["Python", "Java", "C", "C++"]
+
+    def goals(self):
+        return "Become a great developer"
+
+    def motto(self):
+        return "Never stop learning!"
+
+developer = JoãoLucas()
+
