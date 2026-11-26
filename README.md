@@ -9,7 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-jl__guilherme__-C026D3?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jl_guilherme_)
 [![Gmail](https://img.shields.io/badge/Gmail-Contato-9333EA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alunocebrac2024jl@gmail.com)
 
- :: About me
+ # About me
 -  My name is Lucas and I am studying programming.
 -  Currently, I focus on Programming Logic and Artificial Intelligence.
 -  I am learning and practicing Python, Java, C, and C++.
