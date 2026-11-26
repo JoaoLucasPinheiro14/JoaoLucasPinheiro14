@@ -9,44 +9,14 @@
 [![Instagram](https://img.shields.io/badge/Instagram-jl__guilherme__-C026D3?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jl_guilherme_)
 [![Gmail](https://img.shields.io/badge/Gmail-Contato-9333EA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alunocebrac2024jl@gmail.com)
 
-<h2 align="center">💜 About Me</h2>
-
-<p align="center">
-  👋 Hi! I'm <strong>Lucas</strong>, a programming student passionate about technology.
-</p>
-
-<p align="center">
-  💻 Currently focused on <strong>Programming Logic</strong> and <strong>Artificial Intelligence</strong>.
-</p>
-
-<p align="center">
-  🚀 Learning and practicing Python, Java, C and C++.
-</p>
-
-<p align="center">
-  🎯 My goal is to develop my skills and turn ideas into real-world solutions.
-</p>
-
-<p align="center">
-  ✨ Always learning, improving and exploring new technologies.
-</p>
-
----
-
-<h2 align="center">🛠️ Languages & Technologies</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,git,github,vscode&theme=dark" />
-</div>
-
----
-
-<h2 align="center">📚 Currently Learning</h2>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Programming_Logic-A855F7?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-9333EA?style=for-the-badge&logo=openai&logoColor=white" />
-</div>
+# About me
+-  My name is Lucas and I am studying programming.
+-  Currently, I focus on Programming Logic and Artificial Intelligence.
+-  I am learning and practicing Python, Java, C, and C++.
+-  I want to develop my skills and create projects that
+  transform ideas into solutions.
+- I am always looking to learn something new and evolve as a developer.
+   Languages ​​and technologies
 
 :: My projects :
 My projects are below; if you need any information, you know how to find me.
