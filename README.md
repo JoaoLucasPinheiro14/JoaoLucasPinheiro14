@@ -44,5 +44,4 @@ __*If you’ve seen this, I’m sorry—it’s high-quality content.*__
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=while(alive)+%7B+keepLearning()%3B+%7D" />
-Building knowledge, one line of code at a time.
 </div>
