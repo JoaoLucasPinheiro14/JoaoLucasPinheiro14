@@ -29,12 +29,10 @@ My projects are below; if you need any information, you know how to find me.
 
 __*If you’ve seen this, I’m sorry—it’s high-quality content.*__
 
+ # GitHub Statistics
 <div align="center">
-
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=JoaoLucasPinheiro14&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
-
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLucasPinheiro14&layout=compact&theme=midnight-purple&hide_border=true" />
-
 </div>
 
  ## Languages & Technologies
