@@ -14,9 +14,6 @@
 - I am always looking to learn something new and evolve as a developer.
    Languages ​​and technologies
 
-[![My
-Skills](https://skillicons.dev/icons?i=python,java,c,cpp,portugol&theme=dark)](https://skillicons.dev) 
-
 ::🚀 My projects :
 My projects are below; if you need any information, you know how to find me.
 
