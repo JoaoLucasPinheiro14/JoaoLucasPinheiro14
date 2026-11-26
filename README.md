@@ -34,18 +34,9 @@ __*If you’ve seen this, I’m sorry—it’s high-quality content.*__
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true) 
 
-class JoãoLucas:
+ ## Languages & Technologies
+<div align="center">
 
-    name = "João Lucas"
-    occupation = "Programming Student"
-    interests = ["Programming", "AI", "Technology"]
-    languages = ["Python", "Java", "C", "C++"]
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,git,github,vscode&theme=dark" />
 
-    def goals(self):
-        return "Become a great developer"
-
-    def motto(self):
-        return "Never stop learning!"
-
-developer = JoãoLucas()
-
+</div>
