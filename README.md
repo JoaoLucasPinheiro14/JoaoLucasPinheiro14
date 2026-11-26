@@ -29,4 +29,4 @@ My projects are below; if you need any information, you know how to find me.
 
 __*If you’ve seen this, I’m sorry—it’s high-quality content.*__
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=nightowl_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
