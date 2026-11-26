@@ -34,9 +34,7 @@ __*If you’ve seen this, I’m sorry—it’s high-quality content.*__
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=JoaoLucasPinheiro14&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLucasPinheiro14&layout=compact&theme=midnight-purple&hide_border=true" />
 </div>
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=200&lines=John+Constantine" />
-</div>
+
 
  ## Languages & Technologies
 <div align="center">
@@ -47,4 +45,7 @@ __*If you’ve seen this, I’m sorry—it’s high-quality content.*__
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=400&lines=I+don't+believe+in+the+Devil...+But+He+believes+in+you." />
+</div>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=200&lines=John+Constantine" />
 </div>
