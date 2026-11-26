@@ -5,6 +5,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=650&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Jo%C3%A3o+Lucas;Programming+Logic+Student;Future+AI+Developer+%F0%9F%A4%96;Turning+Ideas+Into+Code!" alt="Typing SVG" />
 
+[![GitHub](https://img.shields.io/badge/GitHub-JoaoLucasPinheiro14-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoLucasPinheiro14)
+[![Instagram](https://img.shields.io/badge/Instagram-jl__guilherme__-C026D3?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jl_guilherme_)
+[![Gmail](https://img.shields.io/badge/Gmail-Contato-9333EA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alunocebrac2024jl@gmail.com)
+
  :: About me
 -  My name is Lucas and I am studying programming.
 -  Currently, I focus on Programming Logic and Artificial Intelligence.
