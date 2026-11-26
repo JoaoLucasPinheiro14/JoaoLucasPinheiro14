@@ -43,5 +43,5 @@ __*If you’ve seen this, I’m sorry—it’s high-quality content.*__
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=while(alive)+%7B+keepLearning()%3B+%7D" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Eu+n%C3%A3o+acredito+no+Diabo...+Mas+Ele+acredita+em+voc%C3%AA.+%E2%80%94+John+Constantine" />
 </div>
