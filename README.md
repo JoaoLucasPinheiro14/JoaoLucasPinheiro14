@@ -49,7 +49,11 @@ __*If you’ve seen this, I’m sorry—it’s high-quality content.*__
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=200&lines=John+Constantine" />
 </div>
-༺━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━༻
+
+<div align="center">
+  ༺━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━༻
+</div>
+
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=350&lines=See+you+on+the+other+side..." />
