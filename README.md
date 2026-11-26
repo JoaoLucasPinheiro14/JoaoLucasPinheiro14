@@ -42,9 +42,7 @@ __*If you’ve seen this, I’m sorry—it’s high-quality content.*__
 
 </div>
 
-# Connect With Me
 <div align="center">
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) ![Instagram](https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram) ![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=while(alive)+%7B+keepLearning()%3B+%7D" />
+Building knowledge, one line of code at a time.
 </div>
