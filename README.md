@@ -1,4 +1,4 @@
-# Hello! my name is Lucas 👋
+# Hello! my name is Lucas 
 
 ### Student of Programming Logic and Artificial Intelligence
 <div align="center">
@@ -18,14 +18,14 @@
 - I am always looking to learn something new and evolve as a developer.
    Languages ​​and technologies
 
-::🚀 My projects :
+:: My projects :
 My projects are below; if you need any information, you know how to find me.
 
-🌐 Where to find me :
+ Where to find me :
 
 [![Instagram](https://img.shields.io/badge/Instagram-@jl__guilherme__-C026D3?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jl_guilherme_)
 [![Gmail](https://img.shields.io/badge/Email-alunocebrac2024jl%40gmail.com-9333EA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alunocebrac2024jl@gmail.com)
-### ✨ Always learning. Always evolving.
+###  Always learning. Always evolving.
 
 __*If you’ve seen this, I’m sorry—it’s high-quality content.*__
 
