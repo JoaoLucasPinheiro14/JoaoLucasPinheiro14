@@ -18,7 +18,6 @@
 - I am always looking to learn something new and evolve as a developer.
    Languages ​​and technologies
 
-:: My projects :
 My projects are below; if you need any information, you know how to find me.
 
  Where to find me :
